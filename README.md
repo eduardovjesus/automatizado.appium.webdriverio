@@ -9,9 +9,6 @@
 
 ---
 
-### <p align="center"> [About](#about) **|** [Getting Started](#getting-started) **|** [Installation](#installation) **|** [Writing Tests](#writing-tests) **|** [Page Objects](#page-objects) **|** [Finding Elements](#finding-elements) **|** [Reports](#reports)</p>
-
-
 ## Pré requisitos
 [![NodeJs](https://img.shields.io/badge/-NodeJS-grey?logo=node.js)](https://nodejs.org/en/download/)
 [![VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-%233178C6?logo=visual-studio-code)](https://code.visualstudio.com/download)
