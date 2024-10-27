@@ -1,5 +1,5 @@
 <p align="center">
-<img src= "https://github.com/eduardovjesus/QA.Appium.WebdriverIO/blob/main/Images/image.readme.png" height=300 alt="titleImage.png"/>
+<img src= "./images/image.readme.png" height=300 alt="titleImage.png"/>
 </p>
 
 <p align="center">
