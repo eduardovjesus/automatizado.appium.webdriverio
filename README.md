@@ -1,5 +1,5 @@
 <p align="center">
-<img src= "../Images/image.readme.png" height=300 alt="titleImage.png"/>
+<img src= "./images/image.readme.png" height=300 alt="titleImage.png"/>
 </p>
 
 <p align="center">
@@ -23,7 +23,6 @@
 ## Sobre
 
 Este projeto foi criado para praticar e aplicar conhecimentos em testes automatizados, utilizando Appium com WebdriverIO no aplicativo TED Talks.
-[Assistir ao vídeo](../Images/video.mp4)
 
 ### Tech Stack
 
