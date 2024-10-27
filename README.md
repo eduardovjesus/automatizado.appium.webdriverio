@@ -50,7 +50,7 @@ npm install
 
 ### Run Tests
 
-* O primeiro passo é iniciar o servidor do Appium. Este projeto inclui o módulo do Appium, então você não precisa baixá-lo externamente. Você pode iniciar o servidor do Appium com o seguinte comando npm:
+* O primeiro passo é iniciar o servidor do Appium:
 
 ```
 appium
